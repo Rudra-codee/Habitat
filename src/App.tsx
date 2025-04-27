@@ -20,7 +20,7 @@ interface Avatar {
 
 // Some initial dummy avatars before API fetch
 const initialAvatars: Avatar[] = [
-  { id: 1001, name: 'Kshan Kshan', image: Kshan, description: 'AI Researcher' },
+  { id: 1001, name: 'Kshan', image: Kshan, description: 'AI Researcher' },
   { id: 1002, name: 'Rynaa', image: Rynaa, description: 'Virtual Assistant' },
   { id: 1003, name: 'Nadia', image: Nadia, description: 'Data Analyst' },
 ];
