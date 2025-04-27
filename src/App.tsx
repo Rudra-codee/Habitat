@@ -113,7 +113,7 @@ const App = () => {
           className="mb-12"
         >
           <h1 className="text-4xl font-semibold text-gray-900 dark:text-gray-100 leading-relaxed">
-            Welcome to AI Dashboard
+            Welcome to AI Avtar Dashboard
           </h1>
           <p className="mt-3 text-base text-gray-700 dark:text-gray-300 max-w-xl">
             Manage your AI avatars with ease and a friendly touch.
